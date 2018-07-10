@@ -1,0 +1,11 @@
+{
+  "name": "unsave-changes-detector",
+  "version": "1.0.0",
+  "description": "will check whether there are any user made changes in the model, if it is return true",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "amitha mahesh perera",
+  "license": "ISC"
+}
